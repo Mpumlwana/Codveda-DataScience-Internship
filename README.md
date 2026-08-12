@@ -16,19 +16,22 @@ For every task, you'll find:
 ---
 
 ## 🗂️ Project Structure
+
+\`\`\`
 Codveda-DataScience-Internship/
 ├── Level1-Basic/
-│ ├── task1_web_scraping/
-│ ├── task2_data_cleaning/
-│ └── task3_eda/
+│   ├── task1_web_scraping/
+│   ├── task2_data_cleaning/
+│   └── task3_eda/
 ├── Level2-Intermediate/
-│ ├── task1_regression/
-│ ├── task2_classification/
-│ └── task3_clustering/
+│   ├── task1_regression/
+│   ├── task2_classification/
+│   └── task3_clustering/
 └── Level3-Advanced/
-├── task1_time_series/
-├── task2_nlp/
-└── task3_neural_networks/
+    ├── task1_time_series/
+    ├── task2_nlp/
+    └── task3_neural_networks/
+\`\`\`
 
 ---
 
