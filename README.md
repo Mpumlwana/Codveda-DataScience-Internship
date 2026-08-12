@@ -15,9 +15,7 @@ For every task, you'll find:
 
 ---
 
-## 🗂️ Project Structure
-
-\`\`\`
+🗂️ Project Structure
 Codveda-DataScience-Internship/
 ├── Level1-Basic/
 │   ├── task1_web_scraping/
@@ -31,7 +29,6 @@ Codveda-DataScience-Internship/
     ├── task1_time_series/
     ├── task2_nlp/
     └── task3_neural_networks/
-\`\`\`
 
 ---
 
