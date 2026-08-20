@@ -40,12 +40,12 @@ Codveda-DataScience-Internship/
 |---|---|---|
 | 1 | 🕸️ Data Collection & Web Scraping | ✅ Done |
 | 2 | 🧹 Data Cleaning & Preprocessing | ✅ Done |
-| 3 | 🔍 Exploratory Data Analysis (EDA) | ⏳ In Progress  |
+| 3 | 🔍 Exploratory Data Analysis (EDA) | ✅ Done |
 
 ### 🟡 Level 2 — Intermediate
 | # | Task | Status |
 |---|---|---|
-| 1 | 📈 Predictive Modeling (Regression) | ⬜ Not Started |
+| 1 | 📈 Predictive Modeling (Regression) | ⏳ In Progress |
 | 2 | 🌸 Classification | ⬜ Not Started |
 | 3 | 🧩 Clustering (Unsupervised Learning) | ⬜ Not Started |
 
