@@ -45,9 +45,9 @@ Codveda-DataScience-Internship/
 ### 🟡 Level 2 — Intermediate
 | # | Task | Status |
 |---|---|---|
-| 1 | 📈 Predictive Modeling (Regression) | ⏳ In Progress |
-| 2 | 🌸 Classification | ⬜ Not Started |
-| 3 | 🧩 Clustering (Unsupervised Learning) | ⬜ Not Started |
+| 1 | 📈 Predictive Modeling (Regression) | ✅ Done |
+| 2 | 🌸 Classification | ✅ Done |
+| 3 | 🧩 Clustering (Unsupervised Learning) | ⏳ In Progress |
 
 ### 🔴 Level 3 — Advanced
 | # | Task | Status |
