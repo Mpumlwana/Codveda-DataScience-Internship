@@ -47,13 +47,13 @@ Codveda-DataScience-Internship/
 |---|---|---|
 | 1 | 📈 Predictive Modeling (Regression) | ✅ Done |
 | 2 | 🌸 Classification | ✅ Done |
-| 3 | 🧩 Clustering (Unsupervised Learning) | ⏳ In Progress |
+| 3 | 🧩 Clustering (Unsupervised Learning) | ✅ Done |
 
 ### 🔴 Level 3 — Advanced
 | # | Task | Status |
 |---|---|---|
-| 1 | ⏳ Time Series Analysis | ⬜ Not Started |
-| 2 | 💬 NLP — Text Classification | ⬜ Not Started |
+| 1 | ⏳ Time Series Analysis | ✅ Done |
+| 2 | 💬 NLP — Text Classification | ⏳ In Progress |
 | 3 | 🧠 Neural Networks (TensorFlow/Keras) | ⬜ Not Started |
 
 ---
