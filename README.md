@@ -54,7 +54,7 @@ Codveda-DataScience-Internship/
 |---|---|---|
 | 1 | ⏳ Time Series Analysis | ✅ Done |
 | 2 | 💬 NLP — Text Classification | ✅ Done |
-| 3 | 🧠 Neural Networks (TensorFlow/Keras) | ⏳ In Progress |
+| 3 | 🧠 Neural Networks (TensorFlow/Keras) | ✅ Done |
 
 ---
 
