@@ -1,0 +1,5 @@
+   tf_env/
+   tfenv/
+   *.pyc
+   __pycache__/
+   .ipynb_checkpoints/
